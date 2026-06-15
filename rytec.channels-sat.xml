@@ -41,10 +41,8 @@
 <channel id="360TuneBox.cz">1:0:16:AA0:9DD0:16E:A00000:0:0:0:</channel>
 <channel id="3plus.ch">1:0:19:64:3264:13E:820000:0:0:0:</channel>
 <channel id="3plus.ch">1:0:19:1260:3F7:1:C00000:0:0:0:</channel>
-<channel id="3sat.de">1:0:1:6D67:437:1:C00000:0:0:0:</channel>
 <channel id="3sat.de">1:0:19:2B8E:3F2:1:C00000:0:0:0:</channel>
 <channel id="3sat.de">1:0:1:203:202:2114:EEEE0000:0:0:0:</channel>
-<channel id="3sat.svn">1:0:1:6D67:437:1:C00000:0:0:0:</channel>
 <channel id="3sat.svn">1:0:19:2B8E:3F2:1:C00000:0:0:0:</channel>
 <channel id="4E.gr">1:0:1:3F4:1:2BE:1860000:0:0:0:</channel>
 <channel id="4E.gr">1:0:1:6:1:2BE:1860000:0:0:0:</channel>
@@ -95,7 +93,7 @@
 <channel id="Aastha.uk">1:0:1:D3D5:839:0:11A0000:0:0:0:</channel>
 <channel id="Aastha.uk">1:0:1:D3D5:829:2:11A0000:0:0:0:</channel>
 <channel id="Aastha.uk">1:0:1:D3D5:839:2:11A0000:0:0:0:</channel>
-<channel id="AB1.fr">1:0:1:1C4:26AC:13F:820000:0:0:0:</channel>
+<channel id="AB1.fr">1:0:1:5AC:170C:13F:820000:0:0:0:</channel>
 <channel id="AB1.fr">1:0:19:427D:446:1:C00000:0:0:0:</channel>
 <channel id="AB1.fr">1:0:19:259:1A:800:1040000:0:0:0:</channel>
 <channel id="AB1.fr">1:0:19:CB:4EE8:55F:DDE0000:0:0:0:</channel>
@@ -116,6 +114,8 @@
 <channel id="AcasaGold.ro">1:0:1:58C:7:1:E080000:0:0:0:</channel>
 <channel id="ACISport.it">1:0:1:64D:2454:13E:820000:0:0:0:</channel>
 <channel id="ACM.me">1:0:1:3:3:1:642D76:0:0:0:</channel>
+<channel id="ActieRakutenTV.nl">1:0:1:6:1000:31:cccc0000:0:0:0:HTTP%3A//</channel>
+<channel id="Action.fr">1:0:1:5B5:170C:13F:820000:0:0:0:</channel>
 <channel id="Action.fr">1:0:1:1CD:26AC:13F:820000:0:0:0:</channel>
 <channel id="Action.fr">1:0:19:4286:446:1:C00000:0:0:0:</channel>
 <channel id="Action.fr">1:0:19:25C:1A:800:1040000:0:0:0:</channel>
@@ -127,14 +127,6 @@
 <channel id="AdriaTV.rs">1:0:1:4F1B:CA5:3:EB0000:0:0:0:</channel>
 <channel id="AdultChannel.ero">1:0:1:D3C5:829:2:11A0000:0:0:0:</channel>
 <channel id="AdultChannel.ero">1:0:1:D3C5:839:2:11A0000:0:0:0:</channel>
-<channel id="AFNAtlantic.us">1:0:19:66:65:12:5A0000:0:0:0:</channel>
-<channel id="AFNFamily.us">1:0:19:6C:65:12:5A0000:0:0:0:</channel>
-<channel id="AFNMovie.us">1:0:19:6D:65:12:5A0000:0:0:0:</channel>
-<channel id="AFNNews.us">1:0:19:67:65:12:5A0000:0:0:0:</channel>
-<channel id="AFNPacific.us">1:0:19:69:65:12:5A0000:0:0:0:</channel>
-<channel id="AFNSpectrum.us">1:0:19:6A:65:12:5A0000:0:0:0:</channel>
-<channel id="AFNSport.us">1:0:19:68:65:12:5A0000:0:0:0:</channel>
-<channel id="AFNSport2.us">1:0:16:6B:65:12:5A0000:0:0:0:</channel>
 <channel id="AfroMusic.pt">1:0:1:17A8:2F:36:CE40000:0:0:0:</channel>
 <channel id="AgroTV.ro">1:0:1:D48:C:1:E080000:0:0:0:</channel>
 <channel id="AgroTV.ro">1:0:1:D48:C:1:E082E7C:0:0:0:</channel>
@@ -294,6 +286,7 @@
 <channel id="AnimalPlanetHD.fi">1:0:19:1C19:3D:46:E080000:0:0:0:</channel>
 <channel id="AnimalPlanetplus1.uk">1:0:1:CCB5:80E:2:11A0000:0:0:0:</channel>
 <channel id="AnimalPlanetplus1.uk">1:0:1:CCB5:7E1:2:11A0000:0:0:0:</channel>
+<channel id="Animaux.fr">1:0:1:5AE:170C:13F:820000:0:0:0:</channel>
 <channel id="Animaux.fr">1:0:1:1C6:26AC:13F:820000:0:0:0:</channel>
 <channel id="Animaux.fr">1:0:19:427E:446:1:C00000:0:0:0:</channel>
 <channel id="Animaux.fr">1:0:19:D0:4EE8:55F:DDE0000:0:0:0:</channel>
@@ -352,7 +345,7 @@
 <channel id="ArenaSport1.ba">1:0:1:4EE8:CA5:3:EB0000:0:0:0:</channel>
 <channel id="ArenaSport1.cz">1:0:1:76D7:2C0:600:E080000:0:0:0:</channel>
 <channel id="ArenaSport1.cz">1:0:16:7AAA:2CC:600:E080000:0:0:0:</channel>
-<channel id="ArenaSport1.cz">1:0:19:485:76C0:16E:A00000:0:0:0:</channel>
+<channel id="ArenaSport1.cz">1:0:19:260:C418:16E:A00000:0:0:0:</channel>
 <channel id="ArenaSport1.hr">1:0:19:19C:3:40:A00000:0:0:0:</channel>
 <channel id="ArenaSport1.hr">1:0:1:1CF:B:1:1860000:0:0:0:</channel>
 <channel id="ArenaSport1.hr">1:0:1:553:75FB:16E:A00000:0:0:0:</channel>
@@ -375,6 +368,7 @@
 <channel id="ArenaSport1Premium.svn">1:0:1:53:9CA4:16E:A00000:0:0:0:</channel>
 <channel id="ArenaSport1X2.rs">1:0:1:6D:9F60:16E:A00000:0:0:0:</channel>
 <channel id="ArenaSport1x2.rs">1:0:1:4EBD:CA4:3:EB0000:0:0:0:</channel>
+<channel id="ArenaSport2.cz">1:0:16:259:C418:16E:A00000:0:0:0:</channel>
 <channel id="ArenaSport2.cz">1:0:16:4BA:76C1:16E:A00000:0:0:0:</channel>
 <channel id="ArenaSport2.hr">1:0:19:710:C5A8:16E:A00000:0:0:0:</channel>
 <channel id="ArenaSport2.hr">1:0:1:1D0:B:1:1860000:0:0:0:</channel>
@@ -384,6 +378,7 @@
 <channel id="ArenaSport2.rs">1:0:19:4E35:CA7:3:EB0000:0:0:0:</channel>
 <channel id="ArenaSport2.rs">1:0:1:1D0:B:1:1860000:0:0:0:</channel>
 <channel id="ArenaSport2.sk">1:0:19:3724:C8E:3:EB0000:0:0:0:</channel>
+<channel id="ArenaSport2.svn">1:0:16:11A4:1111:FF00:A00000:0:0:0:</channel>
 <channel id="ArenaSport2.svn">1:0:16:11A4:4289:FF00:A00000:0:0:0:</channel>
 <channel id="ArenaSport2.svn">1:0:16:11A4:4289:FF00:A0313E:0:0:0:</channel>
 <channel id="ArenaSport3.hr">1:0:19:6C:1:40:A00000:0:0:0:</channel>
@@ -450,7 +445,6 @@
 <channel id="ARTE.de">1:0:1:2:A01:2114:EEEE0000:0:0:0:</channel>
 <channel id="ARTE.de">1:0:1:2:1800:2114:EEEE0000:0:0:0:</channel>
 <channel id="ARTE.fr">1:0:1:51B:2E7C:13F:820000:0:0:0:</channel>
-<channel id="ARTE.fr">1:0:1:133:3E1C:13F:820000:0:0:0:</channel>
 <channel id="ARTE.fr">1:0:19:2081:432:1:C00000:0:0:0:</channel>
 <channel id="ARTE.fr">1:0:19:194:4FB0:55F:DDE0000:0:0:0:</channel>
 <channel id="ARTE.fr">1:0:19:407:4:20FA:DDE0000:0:0:0:</channel>
@@ -478,7 +472,7 @@
 <channel id="AuroraTV.hr">1:0:1:6C:1:64:A00000:0:0:0:</channel>
 <channel id="AuroraTV.hr">1:0:16:6C:1:16E:A00000:0:0:0:</channel>
 <channel id="AuroraTV.hr">1:0:16:9A:1:40:A00000:0:0:0:</channel>
-<channel id="Automoto.fr">1:0:1:1C5:26AC:13F:820000:0:0:0:</channel>
+<channel id="Automoto.fr">1:0:1:5AD:170C:13F:820000:0:0:0:</channel>
 <channel id="Automoto.fr">1:0:19:427C:446:1:C00000:0:0:0:</channel>
 <channel id="Automoto.fr">1:0:19:26A:1A:800:1040000:0:0:0:</channel>
 <channel id="Automoto.fr">1:0:19:CC:4EE8:55F:DDE0000:0:0:0:</channel>
@@ -774,6 +768,7 @@
 <channel id="BFMParis.fr">1:0:19:58D:5398:55F:DDE0000:0:0:0:</channel>
 <channel id="BFMParis.fr">1:0:19:71F:2904:55F:DDE0000:0:0:0:</channel>
 <channel id="BFMParis.fr">4097:0:1:32:1:33:0:0:0:0:HTTP%3A//</channel>
+<channel id="BFMTV.fr">1:0:1:587:170C:13F:820000:0:0:0:</channel>
 <channel id="BFMTV.fr">1:0:1:19F:26AC:13F:820000:0:0:0:</channel>
 <channel id="BFMTV.fr">1:0:19:206D:432:1:C00000:0:0:0:</channel>
 <channel id="BFMTV.fr">1:0:19:203:2:20FA:DDE0000:0:0:0:</channel>
@@ -925,6 +920,10 @@
 <channel id="Boukè.be">4097:0:1:6:1:32:0:0:0:0:HTTP%3A//</channel>
 <channel id="Brainz.rs">1:0:1:1165:9CA4:16E:A00000:0:0:0:</channel>
 <channel id="Brainz.rs">1:0:1:5B6:75FC:16E:A00000:0:0:0:</channel>
+<channel id="Bravo.fr">1:0:1:389:5208:55E:DDE0000:0:0:0:</channel>
+<channel id="Bravo.fr">1:0:19:580:5398:55F:DDE0000:0:0:0:</channel>
+<channel id="Bravo.fr">1:0:19:580:5398:55F:FFCE0000:0:0:0:</channel>
+<channel id="Bravo.fr">1:0:19:725:2904:55F:DDE0000:0:0:0:</channel>
 <channel id="Bravo.nz">4097:0:1:5:1:64:0:0:0:0:HTTP%3A//</channel>
 <channel id="BravoMusic.rs">1:0:1:C1:CB2C:16E:A00000:0:0:0:</channel>
 <channel id="BravoMusic.rs">1:0:1:4EBF:CA6:3:EB0000:0:0:0:</channel>
@@ -1120,6 +1119,7 @@
 <channel id="CartoonNetwork.svn">1:0:16:35:1:40:A00000:0:0:0:</channel>
 <channel id="CartoonNetwork.svn">1:0:1:71:4:1:1860000:0:0:0:</channel>
 <channel id="CartoonNetwork.svn">1:0:1:139E:D405:20BF:EEEE0000:0:0:0:</channel>
+<channel id="CartoonNetwork.uk">1:0:19:B9A:7F3:2:11A0000:0:0:0:</channel>
 <channel id="CartoonNetwork.uk">1:0:1:CD0B:7E1:2:11A0000:0:0:0:</channel>
 <channel id="CartoonNetwork.uk">1:0:1:C7B1:817:2:11A0000:0:0:0:</channel>
 <channel id="CartoonNetwork.uk">1:0:19:0FE9:7E8:2:11A0000:0:0:0:</channel>
@@ -1210,6 +1210,7 @@
 <channel id="Channel4.uk">1:0:19:186A:7D3:2:11A0000:0:0:0:</channel>
 <channel id="Channel4.uk">1:0:19:206C:808:2:11A0000:0:0:0:</channel>
 <channel id="Channel44.nws">1:0:1:585C:82E:2:11A0000:0:0:0:</channel>
+<channel id="Channel4plus1.uk">1:0:1:1A2F:834:2:11A0000:0:0:0:</channel>
 <channel id="Channel4plus1.uk">1:0:1:1C33:83B:2:11A0000:0:0:0:</channel>
 <channel id="Channel4plus1.uk">1:0:1:207A:808:2:11A0000:0:0:0:</channel>
 <channel id="Channel4plus1.uk">1:0:1:2104:2012:233A:11A0000:0:0:0:</channel>
@@ -1223,7 +1224,6 @@
 <channel id="Channel5.uk">1:0:19:375F:6A4:13E:820000:0:0:0:</channel>
 <channel id="Channel5.uk">1:0:19:4540:1000:1:D7A0000:0:0:0:</channel>
 <channel id="Channel5.uk">1:0:1:2134:2012:233A:11A0000:0:0:0:</channel>
-<channel id="Channel5.uk">1:0:1:835:83D:2:11A0000:0:0:0:</channel>
 <channel id="Channel5.uk">1:0:19:83C:83D:2:11A0000:0:0:0:</channel>
 <channel id="Channel5plus1.uk">1:0:1:83B:83D:2:11A0000:0:0:0:</channel>
 <channel id="Channel7.uk">1:0:1:5727:82B:2:11A0000:0:0:0:</channel>
@@ -1231,7 +1231,7 @@
 <channel id="Channels24.uk">1:0:1:5726:82B:2:11A0000:0:0:0:</channel>
 <channel id="ChassePeche.fr">1:0:1:21E:18:3:130000:0:0:0:</channel>
 <channel id="ChassePeche.fr">1:0:19:8B:1:D5:1C20000:0:0:0:</channel>
-<channel id="ChassePeche.fr">1:0:1:1C7:26AC:13F:820000:0:0:0:</channel>
+<channel id="ChassePeche.fr">1:0:1:5AF:170C:13F:820000:0:0:0:</channel>
 <channel id="ChassePeche.fr">1:0:19:261:1A:800:1040000:0:0:0:</channel>
 <channel id="ChassePeche.fr">1:0:16:D3:4EE8:55F:DDE0000:0:0:0:</channel>
 <channel id="CHCH.cdn">4097:0:1:10:0:1:0:0:0:0:HTTP%3A//</channel>
@@ -1329,8 +1329,10 @@
 <channel id="CityPlay.rs">1:0:1:55:CB2B:16E:A00000:0:0:0:</channel>
 <channel id="CityPlay.rs">1:0:1:4EBE:CA4:3:EB0000:0:0:0:</channel>
 <channel id="CityTV.bg">1:0:1:65:E:3:130000:0:0:0:</channel>
+<channel id="CityTV.bg">1:0:1:8:2580:D5:820000:0:0:0:</channel>
 <channel id="CityTV.bg">1:0:1:8:25E4:13E:820000:0:0:0:</channel>
 <channel id="CityTV.bg">1:0:16:3A0:C670:16E:A00000:0:0:0:</channel>
+<channel id="CityTV.bg">1:0:16:202:1:1:1862FEF:0:0:0:</channel>
 <channel id="CityTV.bg">1:0:1:83:4:1:1860000:0:0:0:</channel>
 <channel id="CityTV.bg">1:0:19:1F0:B:1:1860000:0:0:0:</channel>
 <channel id="CityTV.bg">1:0:1F:463:B11:39E:1860000:0:0:0:</channel>
@@ -1403,6 +1405,7 @@
 <channel id="CNBC.nws">1:0:1:1792:26:36:CE40000:0:0:0:</channel>
 <channel id="CNBC.uk">1:0:19:13E0:7E8:2:11A0000:0:0:0:</channel>
 <channel id="CNBCWorld.us">1:0:1:68:65:1:D4830DD:0:0:0:</channel>
+<channel id="CNews.fr">1:0:1:589:170C:13F:820000:0:0:0:</channel>
 <channel id="CNews.fr">1:0:1:13C:3E1C:13F:820000:0:0:0:</channel>
 <channel id="CNews.fr">1:0:19:2336:442:1:C00000:0:0:0:</channel>
 <channel id="CNews.fr">1:0:19:204:2:20FA:DDE0000:0:0:0:</channel>
@@ -1482,6 +1485,7 @@
 <channel id="ComedyPlus1.it">1:0:1:38C5:2008:FBFF:820000:0:0:0:</channel>
 <channel id="ComedyPlus1.it">1:0:1:38C5:1AF4:FBFF:820000:0:0:0:</channel>
 <channel id="ComedyPlus1.it">1:0:1:38C5:2260:FBFF:820000:0:0:0:</channel>
+<channel id="ContaLa.pt">1:0:1:9E0:2F:36:CE40000:0:0:0:</channel>
 <channel id="CosmoteCinemaOscars.gr">1:0:1:41C:8:AA:5A0000:0:0:0:</channel>
 <channel id="CosmoteSeries.gr">1:0:1:416:4:AA:5A0000:0:0:0:</channel>
 <channel id="CosmoteSeriesMarathon.gr">1:0:1:417:6:AA:5A0000:0:0:0:</channel>
@@ -1502,7 +1506,7 @@
 <channel id="CrimeAndInvestigationNetwork.uk">1:0:1:D110:832:2:11A0000:0:0:0:</channel>
 <channel id="CrimeAndInvestigationNetwork.uk">1:0:19:F30:7EB:2:11A0000:0:0:0:</channel>
 <channel id="CrimeAndInvestigationNetworkplus1.uk">1:0:1:D115:832:2:11A0000:0:0:0:</channel>
-<channel id="CrimeDistrict.fr">1:0:1:1C9:26AC:13F:820000:0:0:0:</channel>
+<channel id="CrimeDistrict.fr">1:0:1:5B1:170C:13F:820000:0:0:0:</channel>
 <channel id="CrimeDistrict.fr">1:0:19:D7:4EE8:55F:DDE0000:0:0:0:</channel>
 <channel id="CrimeInvestigation.bg">1:0:1:211:17:3:130000:0:0:0:</channel>
 <channel id="CrimeInvestigation.bg">1:0:1:12E:2580:13E:820000:0:0:0:</channel>
@@ -1538,6 +1542,7 @@
 <channel id="CSHorror.cz">1:0:16:36EB:C8C:3:EB0000:0:0:0:</channel>
 <channel id="CSMystery.cz">1:0:16:4B8:76C1:16E:A00000:0:0:0:</channel>
 <channel id="CSMystery.cz">1:0:16:334D:C93:3:EB0000:0:0:0:</channel>
+<channel id="CStar.fr">1:0:1:524:2E7C:13F:820000:0:0:0:</channel>
 <channel id="CStar.fr">1:0:1:1A1:26AC:13F:820000:0:0:0:</channel>
 <channel id="CStar.fr">1:0:19:2335:442:1:C00000:0:0:0:</channel>
 <channel id="CStar.fr">1:0:19:205:2:20FA:DDE0000:0:0:0:</channel>
@@ -1743,6 +1748,7 @@
 <channel id="DiscoveryChannel.bg">1:0:16:3F8:1:1:1862FEF:0:0:0:</channel>
 <channel id="DiscoveryChannel.bg">1:0:19:75:1:D5:1C20000:0:0:0:</channel>
 <channel id="DiscoveryChannel.cz">1:0:19:178E:AF6:BB:E080000:0:0:0:</channel>
+<channel id="DiscoveryChannel.cz">1:0:1F:4B6:76C1:16E:A00000:0:0:0:</channel>
 <channel id="DiscoveryChannel.cz">1:0:16:48B:76C0:16E:A00000:0:0:0:</channel>
 <channel id="DiscoveryChannel.cz">1:0:1:64:1:5E:31B048:0:0:0:</channel>
 <channel id="DiscoveryChannel.cz">1:0:1:C8:1:5E:31B022:0:0:0:</channel>
@@ -1769,6 +1775,8 @@
 <channel id="DiscoveryChannel.se">1:0:19:4660:21:46:E080000:0:0:0:</channel>
 <channel id="DiscoveryChannel.se">1:0:1:37A:3:22F1:EEEE0000:0:0:0:</channel>
 <channel id="DiscoveryChannel.sr">1:0:1:4E98:CA4:3:EB0000:0:0:0:</channel>
+<channel id="DiscoveryDMAX.uk">1:0:1:B64:7F3:0:11A305E:0:0:0:</channel>
+<channel id="DiscoveryDMAX.uk">1:0:1:B72:7F3:0:11A305E:0:0:0:</channel>
 <channel id="DiscoveryDMAX.uk">1:0:1:B72:7F3:2:11A0000:0:0:0:</channel>
 <channel id="DiscoveryDMAX.uk">1:0:1:B64:7F3:2:11A0000:0:0:0:</channel>
 <channel id="DiscoveryHD.gr">1:0:19:3C91:1BBC:13E:820000:0:0:0:</channel>
@@ -1912,6 +1920,7 @@
 <channel id="DMax.de">1:0:19:E7:1644:9C:5A0000:0:0:0:</channel>
 <channel id="DMAX.it">1:0:19:3B62:12C:13E:820000:0:0:0:</channel>
 <channel id="DMAX.it">1:0:1:32:204:1D:EEEE0000:0:0:0:</channel>
+<channel id="DMAX+1.uk">1:0:1:B59:7F3:0:11A305E:0:0:0:</channel>
 <channel id="DMAX+1.uk">1:0:1:B59:7F3:2:11A0000:0:0:0:</channel>
 <channel id="DMNewsEnglish.uk">1:0:1:1DC1:82D:2:11A0000:0:0:0:</channel>
 <channel id="DMSAT.rs">1:0:1:136:2580:13E:820000:0:0:0:</channel>
@@ -1933,6 +1942,7 @@
 <channel id="Docubox.eu">1:0:1:4D:C:3:130000:0:0:0:</channel>
 <channel id="DocuBox.ro">1:0:16:7E6:AF2:BB:E080000:0:0:0:</channel>
 <channel id="DocuBox.svn">1:0:19:A97:9DD0:16E:A00000:0:0:0:</channel>
+<channel id="DocumentairesRakutenTV.nl">1:0:1:7:1000:31:cccc0000:0:0:0:HTTP%3A//</channel>
 <channel id="Dokusat.de">1:0:1:332F:45B:1:C00000:0:0:0:</channel>
 <channel id="Dokusat.de">1:0:1:6DCA:44D:1:C00000:0:0:0:</channel>
 <channel id="DokuTV.hr">1:0:1:364:C3B4:16E:A00000:0:0:0:</channel>
@@ -1974,6 +1984,7 @@
 <channel id="Drama.uk">1:0:1:197A:7E6:2:11A0000:0:0:0:</channel>
 <channel id="Drama.uk">1:0:1:6217:7E6:2:11A0000:0:0:0:</channel>
 <channel id="DramaPlus1.uk">1:0:1:6219:7E6:2:11A0000:0:0:0:</channel>
+<channel id="DramaRakutenTV.nl">1:0:1:8:1000:31:cccc0000:0:0:0:HTTP%3A//</channel>
 <channel id="DreamworksChannel.nl">1:0:1:1B62:C88:3:EB0000:0:0:0:</channel>
 <channel id="DRRamaSjang.dk">1:0:16:1C98:A:46:E080000:0:0:0:</channel>
 <channel id="DRRamaSjang.dk">1:0:1:758:1E:56:300000:0:0:0:</channel>
@@ -2031,11 +2042,11 @@
 <channel id="E.uk">1:0:1:C77:7D7:2:11A0000:0:0:0:</channel>
 <channel id="E.uk">1:0:19:F44:7E5:2:11A0000:0:0:0:</channel>
 <channel id="E4.uk">1:0:19:13D4:7EB:2:11A0000:0:0:0:</channel>
-<channel id="E4.uk">1:0:1:1C34:83B:2:11A0000:0:0:0:</channel>
+<channel id="E4.uk">1:0:1:1A30:834:2:11A0000:0:0:0:</channel>
 <channel id="E4.uk">1:0:1:20BC:808:2:11A0000:0:0:0:</channel>
 <channel id="E4.uk">1:0:1:2100:2012:233A:11A0000:0:0:0:</channel>
 <channel id="E4.uk">1:0:19:F24:7D8:2:11A0000:0:0:0:</channel>
-<channel id="E4Extra.ie">1:0:1:1C37:83B:2:11A0000:0:0:0:</channel>
+<channel id="E4Extra.uk">1:0:1:1A33:834:2:11A0000:0:0:0:</channel>
 <channel id="E4Extra.uk">1:0:1:20A8:808:2:11A0000:0:0:0:</channel>
 <channel id="E4Extra.uk">1:0:1:20AF:808:2:11A0000:0:0:0:</channel>
 <channel id="E4plus1.uk">1:0:1:1C35:83B:2:11A0000:0:0:0:</channel>
@@ -2049,11 +2060,6 @@
 <channel id="eclutch-live.it">1:0:1:6A:C8:13E:820000:0:0:0:</channel>
 <channel id="EdgeSport.de">1:0:19:10CF:418:1:C00000:0:0:0:</channel>
 <channel id="EDGEsport.gr">1:0:1:444:4:AA:5A0000:0:0:0:</channel>
-<channel id="EEntertainment.fr">1:0:1:389:5208:55E:DDE0000:0:0:0:</channel>
-<channel id="EEntertainment.fr">1:0:19:580:5398:55F:DDE0000:0:0:0:</channel>
-<channel id="EEntertainment.fr">1:0:19:580:5398:55F:FFCE0000:0:0:0:</channel>
-<channel id="EEntertainment.fr">1:0:19:725:2904:55F:DDE0000:0:0:0:</channel>
-<channel id="EITBBasque.es">4097:0:1:1F9:64:33:DDDD0000:0:0:0:HTTP%3A//</channel>
 <channel id="EKids.bg">1:0:1:104:2580:13E:820000:0:0:0:</channel>
 <channel id="EKids.bg">1:0:16:3A2:C670:16E:A00000:0:0:0:</channel>
 <channel id="EKids.bg">1:0:1F:F2:B2:39E:1860000:0:0:0:</channel>
@@ -2117,6 +2123,7 @@
 <channel id="EPT3.gr">1:0:1:3EA:1:AA:5A0000:0:0:0:</channel>
 <channel id="EPT3.gr">1:0:1:3EA:7:AA:5A0000:0:0:0:</channel>
 <channel id="EPT3.gr">1:0:1:3EA:9:AA:5A0000:0:0:0:</channel>
+<channel id="EquidiaLive.fr">1:0:1:58D:170C:13F:820000:0:0:0:</channel>
 <channel id="EquidiaLive.fr">1:0:1:1A5:26AC:13F:820000:0:0:0:</channel>
 <channel id="EquidiaLive.fr">1:0:19:22D3:434:1:C00000:0:0:0:</channel>
 <channel id="EquidiaLive.fr">1:0:16:DC:4EE8:55F:DDE0000:0:0:0:</channel>
@@ -2155,8 +2162,9 @@
 <channel id="eSports1.de">1:0:19:10CE:418:1:C00000:0:0:0:</channel>
 <channel id="ETB1.es">1:0:1:B88:51A4:55F:DDE0000:0:0:0:</channel>
 <channel id="ETB1.es">1:0:16:1F6:5014:55F:DDE0000:0:0:0:</channel>
+<channel id="ETB1ON.es">1:0:16:1F7:5014:55F:DDE0000:0:0:0:</channel>
 <channel id="ETB2.es">4097:0:1:1F8:64:33:DDDD0000:0:0:0:HTTP%3A//</channel>
-<channel id="ETB3.es">1:0:16:1F7:5014:55F:DDE0000:0:0:0:</channel>
+<channel id="ETB2ON.es">4097:0:1:1FA:64:33:DDDD0000:0:0:0:HTTP%3A//</channel>
 <channel id="EtnoTV.ro">1:0:1:DC0:C:1:E080000:0:0:0:</channel>
 <channel id="EtnoTV.ro">1:0:1:1:773:773:A00000:0:0:0:</channel>
 <channel id="EtnoTV.ro">1:0:1:4F06:C81:3:EB0000:0:0:0:</channel>
@@ -2173,6 +2181,7 @@
 <channel id="Euronews.nws">1:0:1:4:A:2038:EEEE0000:0:0:0:</channel>
 <channel id="Euronews.nws">1:0:1:438:2:AA:5A0000:0:0:0:</channel>
 <channel id="Euronews.nws">4097:0:1:15:1:64:0:0:0:0:HTTP%3A//</channel>
+<channel id="Euronews.nws">1:0:16:233E:2328:13E:820000:0:0:0:</channel>
 <channel id="Euronews.nws">1:0:1:321:3BC4:13E:820000:0:0:0:</channel>
 <channel id="Euronews.nws">1:0:16:321:3BC4:1:820000:0:0:0:</channel>
 <channel id="Euronews.nws">1:0:1:4EC6:CA4:3:EB0000:0:0:0:</channel>
@@ -2186,6 +2195,7 @@
 <channel id="Euronews.nws">1:0:1:4F:C:3:130000:0:0:0:</channel>
 <channel id="EuronewsDE.nws">1:0:1:79FE:443:1:C00000:0:0:0:</channel>
 <channel id="EuronewsFR.nws">1:0:1:AA0:1BBC:9C:5A0000:0:0:0:</channel>
+<channel id="EuronewsIT.nws">1:0:1:233f:2328:13e:820000:0:0:0:</channel>
 <channel id="EuronewsIT.nws">1:0:1:7E1:22C4:13E:820000:0:0:0:</channel>
 <channel id="EuronewsSerbia.rs">1:0:1:5E6:4E84:16E:A00000:0:0:0:</channel>
 <channel id="EuronewsSerbia.rs">1:0:1:4E41:C85:3:EB0000:0:0:0:</channel>
@@ -2290,7 +2300,7 @@
 <channel id="Explorer.it">1:0:19:34DE:1AF4:FBFF:820000:0:0:0:</channel>
 <channel id="Explorer.it">1:0:19:34DE:2008:FBFF:820000:0:0:0:</channel>
 <channel id="Extasy.ero">1:0:1F:4BB:76C1:16E:A00000:0:0:0:</channel>
-<channel id="Extasy4KPlatinum.ero">1:0:1F:259:C418:16E:A00000:0:0:0:</channel>
+<channel id="Extasy4KPlatinum.ero">1:0:1F:485:76C0:16E:A00000:0:0:0:</channel>
 <channel id="Extra.cy">4097:0:1:9:0:0:357:0:0:0:HTTP%3A//</channel>
 <channel id="Extra.gr">1:0:1:3EF:5:AA:5A0000:0:0:0:</channel>
 <channel id="ExtremeSports.eu">1:0:1:8F:251C:13E:820000:0:0:0:</channel>
@@ -2306,6 +2316,7 @@
 <channel id="FaceTV.ba">1:0:1:6:1:16E:A00000:0:0:0:</channel>
 <channel id="FaithUK.uk">1:0:1:C4D0:811:2:11A0000:0:0:0:</channel>
 <channel id="FaithWorldTV.uk">1:0:1:D74F:82F:2:11A0000:0:0:0:</channel>
+<channel id="FamilieRakutenTV.nl">1:0:1:9:1000:31:cccc0000:0:0:0:HTTP%3A//</channel>
 <channel id="FANTV.bg">1:0:1:E1:13:3:130000:0:0:0:</channel>
 <channel id="FANTV.bg">1:0:1:CD:12:3:130000:0:0:0:</channel>
 <channel id="FANTV.bg">1:0:1:F5:2580:13E:820000:0:0:0:</channel>
@@ -2362,6 +2373,7 @@
 <channel id="Film1Family.nl">1:0:16:51AE:C96:3:EB0000:0:0:0:</channel>
 <channel id="Film1Premiere.nl">1:0:19:51DB:C96:3:EB0000:0:0:0:</channel>
 <channel id="Film4.uk">1:0:19:E7:2DB4:13E:820000:0:0:0:</channel>
+<channel id="Film4.uk">1:0:1:1A2E:834:2:11A0000:0:0:0:</channel>
 <channel id="Film4.uk">1:0:1:1C2D:83B:2:11A0000:0:0:0:</channel>
 <channel id="Film4.uk">1:0:1:20BE:808:2:11A0000:0:0:0:</channel>
 <channel id="Film4.uk">1:0:1:20C1:2012:233A:11A0000:0:0:0:</channel>
@@ -2410,6 +2422,7 @@
 <channel id="FilmboxPremium.cz">1:0:19:7E3:AF2:BB:E080000:0:0:0:</channel>
 <channel id="FilmboxPremium.cz">1:0:16:A9F:9DD0:16E:A00000:0:0:0:</channel>
 <channel id="FilmboxPremium.cz">1:0:19:3CF5:C95:3:EB0000:0:0:0:</channel>
+<channel id="FilmBoxPremium.hr">1:0:19:AAA:9DD0:16E:A00000:0:0:0:</channel>
 <channel id="FilmBoxPremium.hr">1:0:19:A8D:9DD0:16E:A00000:0:0:0:</channel>
 <channel id="FilmboxPremium.hr">1:0:1:4ED3:C9F:3:EB0000:0:0:0:</channel>
 <channel id="FilmboxPremium.ro">1:0:1:77FB:2C3:600:E080000:0:0:0:</channel>
@@ -2553,6 +2566,7 @@
 <channel id="FOXNews.uk">1:0:1:749B:41C:1:C00000:0:0:0:</channel>
 <channel id="FOXNews.uk">1:0:1:4ECB:C81:3:EB0000:0:0:0:</channel>
 <channel id="FOXNews.uk">1:0:1:140:67:53:CE40000:0:0:0:</channel>
+<channel id="France2.fr">1:0:1:516:2E7C:13F:820000:0:0:0:</channel>
 <channel id="France2.fr">1:0:1:12E:3E1C:13F:820000:0:0:0:</channel>
 <channel id="France2.fr">1:0:19:245A:440:1:C00000:0:0:0:</channel>
 <channel id="France2.fr">1:0:1:101:1:20FA:DDE0000:0:0:0:</channel>
@@ -2567,19 +2581,19 @@
 <channel id="France2.fr">1:0:1:502:5:20FA:EEEE0000:0:0:0:</channel>
 <channel id="France2.fr">1:0:20:901:9:20FA:EEEE0244:0:0:0:</channel>
 <channel id="France2.svn">1:0:1:12E:3E1C:13F:820000:0:0:0:</channel>
-<channel id="France24.fr">1:0:1:68:E:3:130000:0:0:0:</channel>
-<channel id="France24.fr">1:0:1:328:3BC4:13E:820000:0:0:0:</channel>
-<channel id="France24.fr">1:0:19:328:3BC4:1:820000:0:0:0:</channel>
-<channel id="France24.fr">1:0:1:1AFA:3FE:1:C00000:0:0:0:</channel>
-<channel id="France24.fr">1:0:1:20:1FD:2BE:1040000:0:0:0:</channel>
-<channel id="France24.fr">1:0:19:130:1FE:2BE:1040000:0:0:0:</channel>
-<channel id="France24.fr">1:0:19:CD5D:844:2:11A0000:0:0:0:</channel>
-<channel id="France24.fr">1:0:1:144:67:53:CE40000:0:0:0:</channel>
-<channel id="France24.fr">1:0:1:23:2:1:1860000:0:0:0:</channel>
-<channel id="France24.fr">1:0:19:474:B11:39E:1860000:0:0:0:</channel>
-<channel id="France24.fr">1:0:1:1397:30:36:CE40000:0:0:0:</channel>
-<channel id="France24.fr">1:0:1:F6:30:36:CE40000:0:0:0:</channel>
 <channel id="France24Arabe.nws">1:0:19:131:1FE:2BE:1040000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:1:68:E:3:130000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:1:328:3BC4:13E:820000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:19:328:3BC4:1:820000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:1:1AFA:3FE:1:C00000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:1:20:1FD:2BE:1040000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:19:130:1FE:2BE:1040000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:19:CD5D:844:2:11A0000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:1:144:67:53:CE40000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:1:23:2:1:1860000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:19:474:B11:39E:1860000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:1:1397:30:36:CE40000:0:0:0:</channel>
+<channel id="France24EN.fr">1:0:1:F6:30:36:CE40000:0:0:0:</channel>
 <channel id="France24fr.fr">1:0:1:64:25E4:13E:820000:0:0:0:</channel>
 <channel id="France24fr.fr">1:0:1:6F:E:3:130000:0:0:0:</channel>
 <channel id="France24fr.fr">1:0:1:327:3BC4:13E:820000:0:0:0:</channel>
@@ -2593,6 +2607,7 @@
 <channel id="France24fr.fr">1:0:1:713:18E1:217C:5A0000:0:0:0:</channel>
 <channel id="France24fr.fr">1:0:1:F:50:217C:EEEE0000:0:0:0:</channel>
 <channel id="France24fr.fr">1:0:1:C84:107:217C:EEEE0000:0:0:0:</channel>
+<channel id="France3.fr">1:0:1:517:2E7C:13F:820000:0:0:0:</channel>
 <channel id="France3.fr">1:0:1:12F:3E1C:13F:820000:0:0:0:</channel>
 <channel id="France3.fr">1:0:19:245D:440:1:C00000:0:0:0:</channel>
 <channel id="France3.fr">1:0:1:110:1:20FA:DDE0000:0:0:0:</channel>
@@ -2664,6 +2679,7 @@
 <channel id="France3Provence-Alpes.fr">1:0:1:1011:5078:55F:DDE0000:0:0:0:</channel>
 <channel id="France3Rhone-Alpes.fr">1:0:1:220E:44C:1:C00000:0:0:0:</channel>
 <channel id="France3Rhone-Alpes.fr">1:0:1:1010:5078:55F:DDE0000:0:0:0:</channel>
+<channel id="France4.fr">1:0:1:522:2E7C:13F:820000:0:0:0:</channel>
 <channel id="France4.fr">1:0:1:13A:3E1C:13F:820000:0:0:0:</channel>
 <channel id="France4.fr">1:0:19:2468:440:1:C00000:0:0:0:</channel>
 <channel id="France4.fr">1:0:1:104:1:20FA:DDD0000:0:0:0:</channel>
@@ -2673,11 +2689,13 @@
 <channel id="France4.fr">1:0:19:12F:4F4C:55F:DDE0000:0:0:0:</channel>
 <channel id="France4.fr">1:0:19:70B:2904:55F:DDE0000:0:0:0:</channel>
 <channel id="France4.fr">1:0:1:104:1:20FA:EEEE0000:0:0:0:</channel>
+<channel id="France5.fr">1:0:1:519:2E7C:13F:820000:0:0:0:</channel>
 <channel id="France5.fr">1:0:1:131:3E1C:13F:820000:0:0:0:</channel>
 <channel id="France5.fr">1:0:19:2330:442:1:C00000:0:0:0:</channel>
 <channel id="France5.fr">1:0:19:1A3:4FB0:55F:DDE0000:0:0:0:</channel>
 <channel id="France5.fr">1:0:19:415:4:20FA:DDE0000:0:0:0:</channel>
 <channel id="France5.fr">1:0:19:415:4:20FA:EEEE0000:0:0:0:</channel>
+<channel id="Franceinfo.fr">1:0:1:58B:170C:13F:820000:0:0:0:</channel>
 <channel id="Franceinfo.fr">1:0:1:1A3:26AC:13F:820000:0:0:0:</channel>
 <channel id="Franceinfo.fr">1:0:19:4290:446:1:C00000:0:0:0:</channel>
 <channel id="Franceinfo.fr">1:0:1:106:1:20FA:DDE0000:0:0:0:</channel>
@@ -2755,6 +2773,7 @@
 <channel id="GrandNostalgija.rs">1:0:1:5B5:75FC:16E:A00000:0:0:0:</channel>
 <channel id="GrandTV.hr">1:0:1:6E6:C544:16E:A00000:0:0:0:</channel>
 <channel id="GREATClassicPlus1.uk">1:0:1:D04D:83E:2:11A0000:0:0:0:</channel>
+<channel id="GreaterLove2.tv">1:0:1:1203:2B5C:13E:820000:0:0:0:</channel>
 <channel id="GREATmovies.ie">1:0:1:D029:83F:2:11A0000:0:0:0:</channel>
 <channel id="GREATmovies.uk">1:0:1:D034:83E:2:11A0000:0:0:0:</channel>
 <channel id="GREATmovies.uk">1:0:1:D043:83E:2:11A0000:0:0:0:</channel>
@@ -2764,7 +2783,9 @@
 <channel id="GREATRomance.uk">1:0:1:D048:83E:2:11A0000:0:0:0:</channel>
 <channel id="GREATRomance.uk">1:0:1:CF9C:83A:2:11A0000:0:0:0:</channel>
 <channel id="GREATtv.ie">1:0:1:D02A:83F:2:11A0000:0:0:0:</channel>
+<channel id="GrjngoWesternRakutenTV.nl">1:0:1:D:1000:31:cccc0000:0:0:0:HTTP%3A//</channel>
 <channel id="GTCPunjabi.uk">1:0:1:1BC5:835:2:11A0000:0:0:0:</channel>
+<channel id="Gulli.fr">1:0:1:58A:170C:13F:820000:0:0:0:</channel>
 <channel id="Gulli.fr">1:0:1:1A2:26AC:13F:820000:0:0:0:</channel>
 <channel id="Gulli.fr">1:0:19:2083:432:1:C00000:0:0:0:</channel>
 <channel id="Gulli.fr">1:0:19:206:2:20FA:DDE0000:0:0:0:</channel>
@@ -3099,7 +3120,7 @@
 <channel id="IdealExtra.uk">1:0:1:CBB6:831:2:11A0000:0:0:0:</channel>
 <channel id="IdealWorld.uk">1:0:19:C440:837:2:11A0000:0:0:0:</channel>
 <channel id="IdealWorld.uk">1:0:19:C530:813:2:11A0000:0:0:0:</channel>
-<channel id="IDF1.fr">4097:0:1:26:1:33:0:0:0:0:HTTP%3A//</channel>
+<channel id="FigaroIdF.fr">4097:0:1:26:1:33:0:0:0:0:HTTP%3A//</channel>
 <channel id="IDJTV.rs">1:0:16:BB:11:2:130000:0:0:0:</channel>
 <channel id="IDJTV.rs">1:0:1:36C:C3B4:16E:A00000:0:0:0:</channel>
 <channel id="IL61.it">1:0:16:4E:7918:217C:5A0000:0:0:0:</channel>
@@ -3292,8 +3313,9 @@
 <channel id="JOJSport.sk">1:0:16:7AB7:2CA:600:E080000:0:0:0:</channel>
 <channel id="JOJSport.sk">1:0:19:7AAD:2CC:600:E080000:0:0:0:</channel>
 <channel id="JOJSport.sk">1:0:19:7ABF:2CC:600:E080000:0:0:0:</channel>
-<channel id="JOJSport.sk">1:0:19:25A:C418:16E:A00000:0:0:0:</channel>
+<channel id="JOJSport.sk">1:0:1F:7DB:9E98:16E:A00000:0:0:0:</channel>
 <channel id="JOJSport.sk">1:0:19:339E:C9D:3:EB0000:0:0:0:</channel>
+<channel id="JOJSport2.sk">1:0:19:268:C418:16E:A00000:0:0:0:</channel>
 <channel id="JOJSport2.sk">1:0:1F:490:76C0:16E:A00000:0:0:0:</channel>
 <channel id="JOJSvet.sk">1:0:19:FB2:AF4:BB:E080000:0:0:0:</channel>
 <channel id="JOJSvet.sk">1:0:19:48C:76C0:16E:A00000:0:0:0:</channel>
@@ -3345,6 +3367,8 @@
 <channel id="KabelEinsDoku.de">1:0:1:4465:453:1:C00000:0:0:0:</channel>
 <channel id="KabelEinsDoku.de">1:0:19:EF79:3F9:1:C00000:0:0:0:</channel>
 <channel id="Kanal-Ri.hr">1:0:1:1195:D504:20BF:EEEE0000:0:0:0:</channel>
+<channel id="Kanal1.sk">1:0:16:FB7:AF4:BB:E080000:0:0:0:</channel>
+<channel id="Kanal1.sk">1:0:19:25A:C418:16E:A00000:0:0:0:</channel>
 <channel id="Kanal1.sk">1:0:1:3CFE:C95:3:EB0000:0:0:0:</channel>
 <channel id="Kanal10.no">1:0:16:17D5:20:46:E080000:0:0:0:</channel>
 <channel id="Kanal10.no">1:0:19:1D7A:22:46:E080000:0:0:0:</channel>
@@ -3432,7 +3456,6 @@
 <channel id="KICCTV.uk">1:0:1:2335:2328:13E:820000:0:0:0:</channel>
 <channel id="KICCTV.uk">1:0:1:5850:82E:2:11A0000:0:0:0:</channel>
 <channel id="KICCTV.uk">1:0:1:1DB6:82D:2:11A0000:0:0:0:</channel>
-<channel id="Kika.de">1:0:1:6D68:437:1:C00000:0:0:0:</channel>
 <channel id="Kika.de">1:0:19:2B98:3F2:1:C00000:0:0:0:</channel>
 <channel id="Kika.de">1:0:1:205:202:2114:EEEE0000:0:0:0:</channel>
 <channel id="KinoBarrandov.cz">1:0:1:FAF:AF4:BB:E080000:0:0:0:</channel>
@@ -3457,6 +3480,7 @@
 <channel id="KlasikTV.hr">1:0:1:4E6C:CA7:3:EB0000:0:0:0:</channel>
 <channel id="KlasikTV.svn">1:0:19:D8:3:40:A00000:0:0:0:</channel>
 <channel id="KNR.gl">1:0:1:270F:4F4C:16E:A00000:0:0:0:HTTP%3A//</channel>
+<channel id="KomedieRakutenTV.nl">1:0:1:A:1000:31:cccc0000:0:0:0:HTTP%3A//</channel>
 <channel id="Kontra.gr">1:0:1:16B:1C84:13E:820000:0:0:0:</channel>
 <channel id="Kontra.gr">1:0:1:41E:1:AA:5A0000:0:0:0:</channel>
 <channel id="Kontra.gr">1:0:1:41F:5:AA:5A0000:0:0:0:</channel>
@@ -3526,6 +3550,7 @@
 <channel id="La7d.it">1:0:1:26B:200:1D:EEEE0000:0:0:0:</channel>
 <channel id="LaC-tv.it">1:0:1:264A:98E1:217C:5A0000:0:0:0:</channel>
 <channel id="LaChaineMeteo.fr">1:0:19:2591:448:1:C00000:0:0:0:</channel>
+<channel id="LaChaineParlementaire.fr">1:0:1:521:2E7C:13F:820000:0:0:0:</channel>
 <channel id="LaChaineParlementaire.fr">1:0:1:139:3E1C:13F:820000:0:0:0:</channel>
 <channel id="LaChaineParlementaire.fr">1:0:19:245C:440:1:C00000:0:0:0:</channel>
 <channel id="LaChaineParlementaire.fr">1:0:19:1A9:4FB0:55F:DDE0000:0:0:0:</channel>
@@ -3552,6 +3577,7 @@
 <channel id="LazioStyleChannel.it">1:0:1:1FB0:1AF4:FBFF:820000:0:0:0:</channel>
 <channel id="laziotv.it">1:0:16:1A94:68E1:217C:5A0000:0:0:0:</channel>
 <channel id="laziotv.it">1:0:16:1A94:68E1:217C:EEEE0000:0:0:0:</channel>
+<channel id="LCI.fr">1:0:1:52E:2E7C:13F:820000:0:0:0:</channel>
 <channel id="LCI.fr">1:0:19:2331:442:1:C00000:0:0:0:</channel>
 <channel id="LCI.fr">1:0:1:391:5208:55E:DDE0000:0:0:0:</channel>
 <channel id="LCI.fr">1:0:19:1A1:4FB0:55F:DDE0000:0:0:0:</channel>
@@ -3565,6 +3591,7 @@
 <channel id="LegendXtraPlus1.uk">1:0:1:D7B2:840:2:11A0000:0:0:0:</channel>
 <channel id="LemanBleu.ch">4097:0:1:5:1:41:0:0:0:0:HTTP%3A//</channel>
 <channel id="LeoTV.ero">1:0:16:3CFC:C95:3:EB0000:0:0:0:</channel>
+<channel id="Lequipe.fr">1:0:1:529:2E7C:13F:820000:0:0:0:</channel>
 <channel id="Lequipe.fr">1:0:1:141:3E1C:13F:820000:0:0:0:</channel>
 <channel id="Lequipe.fr">1:0:19:2076:432:1:C00000:0:0:0:</channel>
 <channel id="Lequipe.fr">1:0:1:25B:5078:55F:DDE0000:0:0:0:</channel>
@@ -3579,7 +3606,6 @@
 <channel id="LN24.be">5002:0:1:1:16:1:32:0:0:0:HTTP%3A//</channel>
 <channel id="LollyKids.pt">1:0:1:229:18:3:130000:0:0:0:</channel>
 <channel id="LollyKids.pt">1:0:1:6D:65:53:CE40000:0:0:0:</channel>
-<channel id="LondonLive.uk">1:0:1:D32D:836:2:11A0000:0:0:</channel>
 <channel id="LorFMTV.fr">4097:0:1:24:1:33:0:0:0:0:HTTP%3A//</channel>
 <channel id="LoveNature.be">1:0:19:31A:C94:3:EB0000:0:0:0:</channel>
 <channel id="LoveNature.be">1:0:19:31B:C94:3:EB0000:0:0:0:</channel>
@@ -3609,6 +3635,7 @@
 <channel id="LuxeTV.eu">1:0:19:456:1AF4:9E:5A0000:0:0:0:</channel>
 <channel id="M1Film.hr">1:0:16:128:3:40:A00000:0:0:0:</channel>
 <channel id="M1Film.hr">1:0:1:C8D:D405:20BF:EEEE0000:0:0:0:</channel>
+<channel id="M6.fr">1:0:1:51A:2E7C:13F:820000:0:0:0:</channel>
 <channel id="M6.fr">1:0:1:132:3E1C:13F:820000:0:0:0:</channel>
 <channel id="M6.fr">1:0:19:2457:440:1:C00000:0:0:0:</channel>
 <channel id="M6.fr">1:0:1:395:4E84:55E:DDE0000:0:0:0:</channel>
@@ -3639,7 +3666,7 @@
 <channel id="Magic.bg">1:0:1:10B:2580:13E:820000:0:0:0:</channel>
 <channel id="Magic.uk">1:0:19:80:B1:39E:1860000:0:0:0:</channel>
 <channel id="Magic.uk">1:0:1:1C27:83B:2:11A0000:0:0:0:</channel>
-<channel id="Mangas.fr">1:0:1:1CE:26AC:13F:820000:0:0:0:</channel>
+<channel id="Mangas.fr">1:0:1:5B6:170C:13F:820000:0:0:0:</channel>
 <channel id="Mangas.fr">1:0:1:4287:446:1:C00000:0:0:0:</channel>
 <channel id="Mangas.fr">1:0:19:25F:1A:800:1040000:0:0:0:</channel>
 <channel id="Mangas.fr">1:0:16:CA:4EE8:55F:DDE0000:0:0:0:</channel>
@@ -3739,7 +3766,7 @@
 <channel id="Melody.fr">1:0:1:DD:4EE8:55F:DDE0000:0:0:0:</channel>
 <channel id="Melody.fr">1:0:16:BA1:51A4:55F:DDE0000:0:0:0:</channel>
 <channel id="MEN.TV.sk">1:0:16:1B71:AF7:BB:E080000:0:0:0:</channel>
-<channel id="MENT.be">1:0:16:51D5:C96:3:EB0000:0:0:0:</channel>
+<channel id="MENT55.be">1:0:16:51D5:C96:3:EB0000:0:0:0:</channel>
 <channel id="Metropola.ro">1:0:1:77EE:2C3:600:E080000:0:0:0:</channel>
 <channel id="Metropola.ro">1:0:1:2B12:B:1111:E080000:0:0:0:</channel>
 <channel id="Mezzo.en">1:0:1:29E5:1C20:13E:820000:0:0:0:</channel>
@@ -3801,11 +3828,11 @@
 <channel id="MondeDuLoisir.fr">4097:0:1:34:1:33:0:0:0:0:HTTP%3A//</channel>
 <channel id="Moonbug.se">1:0:16:1D56:3E:46:E080000:0:0:0:</channel>
 <channel id="MoozDance.ro">1:0:1:149:1:1C:1860000:0:0:0:</channel>
+<channel id="More4.uk">1:0:1:1A32:834:2:11A0000:0:0:0:</channel>
 <channel id="More4.uk">1:0:1:2094:808:2:11A0000:0:0:0:</channel>
 <channel id="More4.uk">1:0:1:20FA:2012:233A:11A0000:0:0:0:</channel>
 <channel id="More4.uk">1:0:1:240F:7F9:2:11A0000:0:0:0:</channel>
 <channel id="More4.uk">1:0:19:CC8:7ED:2:11A0000:0:0:0:</channel>
-<channel id="More4.uk">1:0:1:1C36:83B:2:11A0000:0:0:0:</channel>
 <channel id="More4.uk">1:0:1:20BF:808:2:11A0000:0:0:0:</channel>
 <channel id="More4Plus1.uk">1:0:1:20AE:808:2:11A0000:0:0:0:</channel>
 <channel id="MotorVision.de">1:0:1:70:E:3:130000:0:0:0:</channel>
@@ -4129,6 +4156,7 @@
 <channel id="Nickelodeon.de">1:0:1:D5:14B4:9C:5A0000:0:0:0:</channel>
 <channel id="Nickelodeon.de">1:0:19:E9:1644:9C:5A0000:0:0:0:</channel>
 <channel id="Nickelodeon.dk">1:0:16:1EEE:19:46:E080000:0:0:0:</channel>
+<channel id="Nickelodeon.fr">1:0:19:24CD:43C:1:C00000:0:0:0:</channel>
 <channel id="Nickelodeon.fr">1:0:19:2199:448:1:C00000:0:0:0:</channel>
 <channel id="Nickelodeon.gr">1:0:1:182:1C84:13E:820000:0:0:0:</channel>
 <channel id="Nickelodeon.gr">1:0:1:445:6:AA:5A0000:0:0:0:</channel>
@@ -4424,6 +4452,7 @@
 <channel id="Nove.it">1:0:1:1D:7918:217C:EEEE0000:0:0:0:</channel>
 <channel id="Nove.it">1:0:19:15:205:1D:EEEE0000:0:0:0:</channel>
 <channel id="NovelasTV.fr">1:0:19:24BF:43C:1:C00000:0:0:0:</channel>
+<channel id="NOVO19.fr">1:0:1:520:2E7C:13F:820000:0:0:0:</channel>
 <channel id="NOVO19.fr">1:0:1:138:3E1C:13F:820000:0:0:0:</channel>
 <channel id="NOVO19.fr">1:0:19:22DE:434:1:C00000:0:0:0:</channel>
 <channel id="NOVO19.fr">1:0:19:24BC:43C:1:C00000:0:0:0:</channel>
@@ -4540,7 +4569,7 @@
 <channel id="OBN.svn">1:0:1:1E1:B:1:1860000:0:0:0:</channel>
 <channel id="Ocko.cz">1:0:16:2B0E:AFB:BB:E080000:0:0:0:</channel>
 <channel id="Ocko.cz">1:0:16:7668:2BF:600:E080000:0:0:0:</channel>
-<channel id="Ocko.cz">1:0:16:4B6:76C1:16E:A00000:0:0:0:</channel>
+<channel id="Ocko.cz">1:0:16:269:C418:16E:A00000:0:0:0:</channel>
 <channel id="OckoExpress.cz">4097:0:1:68:1:48:0:0:0:0:HTTP%3A//</channel>
 <channel id="OckoStar.cz">1:0:16:309:C94:3:EB0000:0:0:0:</channel>
 <channel id="OCS.fr">1:0:19:2456:440:1:C00000:0:0:0:</channel>
@@ -4594,13 +4623,11 @@
 <channel id="OrangeSport3.ro">1:0:19:19A:3:1C:1860000:0:0:0:</channel>
 <channel id="OrangeSport4.ro">1:0:1:DE:F:1C:1860000:0:0:0:</channel>
 <channel id="OrangeSport4.ro">1:0:19:19B:3:1C:1860000:0:0:0:</channel>
-<channel id="ORF1.at">1:0:19:2EE1:78:DE:FFFF0000:0:0:0:</channel>
 <channel id="ORF1.at">1:0:19:132F:3EF:1:C00000:0:0:0:</channel>
 <channel id="ORF1.at">1:0:19:AFC:28E1:217C:5A0000:0:0:0:</channel>
 <channel id="ORF1.at">1:0:19:6D:3264:13E:820000:0:0:0:</channel>
 <channel id="ORF1.svn">1:0:1:132F:3EF:1:C00000:0:0:0:</channel>
 <channel id="ORF1.svn">1:0:1:2775:1F4:2028:EEEE0000:0:0:0:</channel>
-<channel id="ORF2.at">1:0:19:2EE2:78:DE:FFFF0000:0:0:0:</channel>
 <channel id="ORF2.at">1:0:19:1330:3EF:1:C00000:0:0:0:</channel>
 <channel id="ORF2.at">1:0:19:33F7:3ED:1:C00000:0:0:0:</channel>
 <channel id="ORF2.at">1:0:19:33F6:3ED:1:C00000:0:0:0:</channel>
@@ -4614,10 +4641,8 @@
 <channel id="ORF2.svn">1:0:1:2780:1F4:2028:EEEE0000:0:0:0:</channel>
 <channel id="ORF2.svn">1:0:1:2794:1F4:2028:EEEE0000:0:0:0:</channel>
 <channel id="ORF2europe.at">1:0:16:33FE:3ED:1:C00000:0:0:0:</channel>
-<channel id="ORF3.at">1:0:19:2EE3:78:DE:FFFF0000:0:0:0:</channel>
 <channel id="ORF3.at">1:0:19:33FC:3ED:1:C00000:0:0:0:</channel>
 <channel id="ORF3.at">1:0:19:74:3264:13E:820000:0:0:0:</channel>
-<channel id="ORFSport.at">1:0:19:3074:7C:DE:FFFF0000:0:0:0:</channel>
 <channel id="ORFSport.at">1:0:19:33FD:3ED:1:C00000:0:0:0:</channel>
 <channel id="ORFSport.at">1:0:19:AFD:28E1:217C:5A0000:0:0:0:</channel>
 <channel id="Orler.it">1:0:1:232d:2328:13e:820000:0:0:0:</channel>
@@ -5042,9 +5067,11 @@
 <channel id="qazaqtv.kz">1:0:1:29:2F44:13E:820000:0:0:0:</channel>
 <channel id="qazaqtv.kz">1:0:1:2340:2328:13E:820000:0:0:0:</channel>
 <channel id="QTVReligious.uk">1:0:1:C4BD:811:2:11A0000:0:0:0:</channel>
-<channel id="Quest.uk">1:0:1:1845:7F3:2:11A0000:0:0:0:</channel>
+<channel id="Quest.uk">1:0:1:B68:7F3:0:11A305E:0:0:0:</channel>
+<channel id="Quest.uk">1:0:1:B6D:7F3:0:11A305E:0:0:0:</channel>
 <channel id="Quest.uk">1:0:19:B68:7F3:2:11A0000:0:0:0:</channel>
 <channel id="Quest.uk">1:0:19:B6D:7F3:2:11A0000:0:0:0:</channel>
+<channel id="QuestPlus1.uk">1:0:1:1847:7F3:0:11A305E:0:0:0:</channel>
 <channel id="QuestPlus1.uk">1:0:1:1847:7F3:2:11A0000:0:0:0:</channel>
 <channel id="QuestRed.uk">1:0:1:CCFE:7E1:2:11A0000:0:0:0:</channel>
 <channel id="QuestRed.uk">1:0:1:CCE2:7E1:2:11A0000:0:0:0:</channel>
@@ -5470,8 +5497,11 @@
 <channel id="Really.uk">1:0:1:B90:7F3:2:11A0000:0:0:0:</channel>
 <channel id="Really.uk">1:0:1:B58:7F3:2:11A0000:0:0:0:</channel>
 <channel id="Really.uk">1:0:1:CFE9:83F:2:11A0000:0:0:0:</channel>
+<channel id="Really.uk">1:0:1:B58:7F3:0:11A305E:0:0:0:</channel>
+<channel id="Really.uk">1:0:1:B90:7F3:0:11A305E:0:0:0:</channel>
 <channel id="Really.uk">1:0:1:CFF3:83F:2:11A0000:0:0:0:</channel>
 <channel id="Really.uk">1:0:1:CFF4:832:2:11A0000:0:0:0:</channel>
+<channel id="Really+1.uk">1:0:1:B95:7F3:0:11A305E:0:0:0:</channel>
 <channel id="Really+1.uk">1:0:1:B95:7F3:2:11A0000:0:0:0:</channel>
 <channel id="RealTime.it">1:0:19:2C:204:1D:5A0000:0:0:0:</channel>
 <channel id="RealTime.it">1:0:19:3B61:12C:13E:820000:0:0:0:</channel>
@@ -5505,6 +5535,7 @@
 <channel id="Rex.no">1:0:19:67C:1B:56:300000:0:0:0:</channel>
 <channel id="Rex.no">1:0:16:19A:8C:2242:EEEE0000:0:0:0:</channel>
 <channel id="Rex.no">1:0:16:19A:F0:2242:EEEE0000:0:0:0:</channel>
+<channel id="RFMTV.fr">1:0:19:24D3:43C:1:C00000:0:0:0:</channel>
 <channel id="RFMTV.fr">1:0:19:2202:44C:1:C00000:0:0:0:</channel>
 <channel id="rheinmaintv.de">1:0:1:3146:459:1:C00000:0:0:0:</channel>
 <channel id="RiC.de">1:0:1:22F:18:3:130000:0:0:0:</channel>
@@ -5532,6 +5563,7 @@
 <channel id="RINGBG.bg">1:0:1F:459:B11:39E:1860000:0:0:0:</channel>
 <channel id="RINGBG.bg">1:0:1:10:3:D5:1C20000:0:0:0:</channel>
 <channel id="RINGBG.bg">1:0:19:140:4:D5:1C20000:0:0:0:</channel>
+<channel id="RMCdecouverte.fr">1:0:1:52C:2E7C:13F:820000:0:0:0:</channel>
 <channel id="RMCdecouverte.fr">1:0:1:144:3E1C:13F:820000:0:0:0:</channel>
 <channel id="RMCdecouverte.fr">1:0:19:2011:430:1:C00000:0:0:0:</channel>
 <channel id="RMCdecouverte.fr">1:0:1:258:5078:55F:DDE0000:0:0:0:</channel>
@@ -5539,6 +5571,7 @@
 <channel id="RMCdecouverte.fr">1:0:19:BBC:4E84:55F:DDE0000:0:0:0:</channel>
 <channel id="RMCdecouverte.fr">1:0:19:A04:A:20FA:EEEE0000:0:0:0:</channel>
 <channel id="RMCdecouverte.fr">1:0:19:B03:B:20FA:EEEE0000:0:0:0:</channel>
+<channel id="RMCLife.fr">1:0:1:52D:2E7C:13F:820000:0:0:0:</channel>
 <channel id="RMCLife.fr">1:0:1:145:3E1C:13F:820000:0:0:0:</channel>
 <channel id="RMCLife.fr">1:0:1:2F6C:454:1:C00000:0:0:0:</channel>
 <channel id="RMCLife.fr">1:0:1:2F6D:454:1:C00000:0:0:0:</channel>
@@ -5550,6 +5583,7 @@
 <channel id="RMCSport2.fr">1:0:19:515:5208:55F:DDE0000:0:0:0:</channel>
 <channel id="RMCSport2.fr">1:0:19:721:2904:55F:DDE0000:0:0:0:</channel>
 <channel id="RMCSportUHD.fr">1:0:1F:320:5140:55F:DDE0000:0:0:0:</channel>
+<channel id="RMCStory.fr">1:0:1:52B:2E7C:13F:820000:0:0:0:</channel>
 <channel id="RMCStory.fr">1:0:1:143:3E1C:13F:820000:0:0:0:</channel>
 <channel id="RMCStory.fr">1:0:19:2075:432:1:C00000:0:0:0:</channel>
 <channel id="RMCStory.fr">1:0:1:A32:5078:55F:DDE0000:0:0:0:</channel>
@@ -5563,6 +5597,7 @@
 <channel id="Romance.de">1:0:1:4EEA:21FC:9C:5A0000:0:0:0:</channel>
 <channel id="RomaniaTV.ro">1:0:1:B50:7:1:E080000:0:0:0:</channel>
 <channel id="RomaniaTV.ro">1:0:1:A:1F4:5:A00000:0:0:0:</channel>
+<channel id="RomantiekRakutenTV.nl">1:0:1:B:1000:31:cccc0000:0:0:0:HTTP%3A//</channel>
 <channel id="RSILa1.ch">1:0:19:4337:300C:13E:820000:0:0:0:</channel>
 <channel id="RSILa2.ch">1:0:19:4338:300C:13E:820000:0:0:0:</channel>
 <channel id="RTCG.svn">1:0:1:2A:1:1:9EB138:0:0:0:</channel>
@@ -5643,6 +5678,7 @@
 <channel id="RTL8.nl">1:0:1:454:18:1:EEEE0000:0:0:0:</channel>
 <channel id="RTL8.nl">1:0:1:7F3:15:1:EEEE01DA:0:0:0:</channel>
 <channel id="RTL8.nl">1:0:1:7F3:7:1:EEEE0000:0:0:0:</channel>
+<channel id="RTL9.fr">1:0:1:5AB:170C:13F:820000:0:0:0:</channel>
 <channel id="RTL9.fr">1:0:1:1C3:26AC:13F:820000:0:0:0:</channel>
 <channel id="RTL9.fr">1:0:19:428B:446:1:C00000:0:0:0:</channel>
 <channel id="RTL9.fr">1:0:19:25B:1A:800:1040000:0:0:0:</channel>
@@ -5845,14 +5881,14 @@
 <channel id="Sat1Gold.de">1:0:1:4460:453:1:C00000:0:0:0:</channel>
 <channel id="Sat1Gold.de">1:0:19:EF7A:3F9:1:C00000:0:0:0:</channel>
 <channel id="Sat1Gold.de">1:0:19:EF8E:3F9:1:C00000:0:0:0:</channel>
-<channel id="Sat1Gold.de">1:0:19:30D4:413:1:C00000:0:0:0:</channel>
+
 <channel id="SaudeMais.pt">1:0:1:46C:65:53:CE40000:0:0:0:</channel>
 <channel id="SBNG.global">1:0:1:1B61:17:6E:DCA0000:0:0:0:</channel>
 <channel id="SBNG.global">1:0:1:1D2F:3:46:E080000:0:0:0:</channel>
 <channel id="SBS6.nl">1:0:19:17CA:C82:3:EB0000:0:0:0:</channel>
 <channel id="SBS9.nl">1:0:16:51D1:C96:3:EB0000:0:0:0:</channel>
 <channel id="SchlagerDeluxe.de">1:0:1:23:F:85:C00000:0:0:0:</channel>
-<channel id="ScienceEtVie.fr">1:0:1:1CF:26AC:13F:820000:0:0:0:</channel>
+<channel id="ScienceEtVie.fr">1:0:1:5B7:170C:13F:820000:0:0:0:</channel>
 <channel id="ScienceEtVie.fr">1:0:19:266:1A:800:1040000:0:0:0:</channel>
 <channel id="ScienceEtVie.fr">1:0:19:D1:4EE8:55F:DDE0000:0:0:0:</channel>
 <channel id="SciFi.de">1:0:19:7E:C:85:C00000:0:0:0:</channel>
@@ -5877,12 +5913,12 @@
 <channel id="Senzi.cz">1:0:16:7A52:2CB:600:E080000:0:0:0:</channel>
 <channel id="Senzi.cz">1:0:1F:4BD:76C1:16E:A00000:0:0:0:</channel>
 <channel id="Senzi.cz">1:0:16:36F1:C8C:3:EB0000:0:0:0:</channel>
+<channel id="SerieClub.fr">1:0:19:258C:448:1:C00000:0:0:0:</channel>
 <channel id="SerieClub.fr">1:0:19:22D5:434:1:C00000:0:0:0:</channel>
 <channel id="Serien+.de">1:0:1:2910:45E:1:C00000:0:0:0:</channel>
 <channel id="Serien+.de">1:0:1:2942:458:1:C00000:0:0:0:</channel>
 <channel id="Serien+.de">1:0:1:6E47:431:1:C00000:0:0:0:</channel>
 <channel id="Serien+.de">1:0:19:29D1:45C:1:C00000:0:0:0:</channel>
-<channel id="ServusTV.at">1:0:19:2EE5:78:DE:FFFF0000:0:0:0:</channel>
 <channel id="ServusTV.at">1:0:1:3337:45B:1:C00000:0:0:0:</channel>
 <channel id="ServusTV.at">1:0:19:1331:3EF:1:C00000:0:0:0:</channel>
 <channel id="ServusTV.at">1:0:19:75:3264:13E:820000:0:0:0:</channel>
@@ -6031,7 +6067,6 @@
 <channel id="SkyCinemaRomance.it">1:0:1:2B73:19C8:FBFF:820000:0:0:0:</channel>
 <channel id="SkyCinemaRomance.it">1:0:19:1C3F:189C:FBFF:820000:0:0:0:</channel>
 <channel id="SkyCinemaRomance.it">1:0:19:1C3F:19C8:FBFF:820000:0:0:0:</channel>
-<channel id="SkyCinemaSci-fiHorror.uk">1:0:1:1581:7E7:2:11A0000:0:0:0:</channel>
 <channel id="SkyCinemaSci-fiHorror.uk">1:0:19:EE9:7EE:2:11A0000:0:0:0:</channel>
 <channel id="SkyCinemaSuspense.it">1:0:1:2B8F:19C8:FBFF:820000:0:0:0:</channel>
 <channel id="SkyCinemaSuspense.it">1:0:19:2B27:2198:FBFF:820000:0:0:0:</channel>
@@ -6136,7 +6171,8 @@
 <channel id="SkyOne.uk">1:0:19:F15:7E9:2:11A0000:0:0:0:</channel>
 <channel id="SkyOne.uk">1:0:19:1518:7E9:2:11A0000:0:0:0:</channel>
 <channel id="SkyOne.uk">1:0:19:13A8:7ED:2:11A0000:0:0:0:</channel>
-<channel id="SkyReplay.de">1:0:19:7C:C:85:C00000:0:0:0:</channel>
+<channel id="SkySci-Fi.uk">1:0:19:17BA:7F2:11A0000:0:0:0:</channel>
+<channel id="SkySci-Fi.uk">1:0:1:1581:7E7:2:11A0000:0:0:0:</channel>
 <channel id="SkySerie.it">1:0:19:2DA4:15E0:FBFF:820000:0:0:0:</channel>
 <channel id="SkySerie+1.it">1:0:19:1090:19C8:FBFF:820000:0:0:0:</channel>
 <channel id="SkySerie+1.it">1:0:19:1090:2008:FBFF:820000:0:0:0:</channel>
@@ -6467,8 +6503,6 @@
 <channel id="SOS.hr">1:0:1:78:9F60:16E:A00000:0:0:0:</channel>
 <channel id="SOS.hr">1:0:1:4E3D:C85:3:EB0000:0:0:0:</channel>
 <channel id="SOS.hr">1:0:1:4E3D:CA7:3:EB0000:0:0:0:</channel>
-<channel id="SparkTV.sk">1:0:16:FB7:AF4:BB:E080000:0:0:0:</channel>
-<channel id="SparkTV.sk">1:0:16:7DB:9E98:16E:A00000:0:0:0:</channel>
 <channel id="Spektrum.cz">1:0:1:759F:2BD:600:E080000:0:0:0:</channel>
 <channel id="Spektrum.cz">1:0:1:A6E:5:1:E080000:0:0:0:</channel>
 <channel id="Spektrum.cz">1:0:19:1F4D:AF8:BB:E080000:0:0:0:</channel>
@@ -6750,6 +6784,7 @@
 <channel id="SyFy.pt">1:0:1:177D:30:36:CE40000:0:0:0:</channel>
 <channel id="SyFy.pt">1:0:1:FC:30:36:CE40000:0:0:0:</channel>
 <channel id="Syfy(East).us">4097:0:1:47:1:1:0:0:0:0:HTTP%3A//</channel>
+<channel id="T18.fr">1:0:1:51C:2E7C:13F:820000:0:0:0:</channel>
 <channel id="T18.fr">1:0:1:134:3E1C:13F:820000:0:0:0:</channel>
 <channel id="T18.fr">1:0:19:232A:442:1:C00000:0:0:0:</channel>
 <channel id="T18.fr">1:0:19:207:2:20FA:DDE0000:0:0:0:</channel>
@@ -6824,7 +6859,6 @@
 <channel id="Telenuovo.it">1:0:19:29:3000:217C:DDE0000:0:0:0:</channel>
 <channel id="Telenuovo.it">1:0:1:AF5:28E1:217C:5A0000:0:0:0:</channel>
 <channel id="TeleOne.it">1:0:19:5F:A000:217C:EEEE0000:0:0:0:</channel>
-<channel id="Telepace.it">1:0:1:233f:2328:13e:820000:0:0:0:</channel>
 <channel id="Telepace.it">1:0:1:1:300F:217C:EEEE0000:0:0:0:</channel>
 <channel id="TelePadrePio.it">1:0:1:4238:3DB8:13E:820000:0:0:0:</channel>
 <channel id="TelePadrePio.it">1:0:16:1C18:384:110:5A0000:0:0:0:</channel>
@@ -6847,10 +6881,12 @@
 <channel id="TelevizijaV5.rs">1:0:16:3B:1:16E:A00000:0:0:0:</channel>
 <channel id="TelevizijaV5.rs">1:0:1:4EE2:CA6:3:EB0000:0:0:0:</channel>
 <channel id="TeleZuri.ch">1:0:19:6B:3264:13E:820000:0:0:0:</channel>
+<channel id="Teva.fr">1:0:1:5BA:170C:13F:820000:0:0:0:</channel>
 <channel id="Teva.fr">1:0:1:1D2:26AC:13F:820000:0:0:0:</channel>
 <channel id="Teva.fr">1:0:19:271A:44C:1:C00000:0:0:0:</channel>
 <channel id="Teva.fr">1:0:16:DB:4EE8:55F:DDE0000:0:0:0:</channel>
 <channel id="TF1.fr">1:0:19:3750:6A4:13E:820000:0:0:0:</channel>
+<channel id="TF1.fr">1:0:1:515:2E7C:13F:820000:0:0:0:</channel>
 <channel id="TF1.fr">1:0:1:12D:3E1C:13F:820000:0:0:0:</channel>
 <channel id="TF1.fr">1:0:19:2460:440:1:C00000:0:0:0:</channel>
 <channel id="TF1.fr">1:0:1:8:1:1:14A0000:0:0:0:</channel>
@@ -6860,12 +6896,14 @@
 <channel id="TF1.fr">1:0:1:8:19C8:9E:5A0000:0:0:0:</channel>
 <channel id="TF1.fr">1:0:1:501:5:20FA:EEEE0000:0:0:0:</channel>
 <channel id="TF1.fr">1:0:19:601:6:20FA:EEEE0000:0:0:0:</channel>
+<channel id="TF1SeriesFilms.fr">1:0:1:528:2E7C:13F:820000:0:0:0:</channel>
 <channel id="TF1SeriesFilms.fr">1:0:1:140:3E1C:13F:820000:0:0:0:</channel>
 <channel id="TF1SeriesFilms.fr">1:0:19:4291:446:1:C00000:0:0:0:</channel>
 <channel id="TF1SeriesFilms.fr">1:0:19:21FF:44C:1:C00000:0:0:0:</channel>
 <channel id="TF1SeriesFilms.fr">1:0:19:A01:A:20FA:DDE0000:0:0:0:</channel>
 <channel id="TF1SeriesFilms.fr">1:0:19:BB8:4E84:55F:DDE0000:0:0:0:</channel>
 <channel id="TF1SeriesFilms.fr">1:0:19:A01:A:20FA:EEEE0000:0:0:0:</channel>
+<channel id="TFX.fr">1:0:1:51F:2E7C:13F:820000:0:0:0:</channel>
 <channel id="TFX.fr">1:0:1:137:3E1C:13F:820000:0:0:0:</channel>
 <channel id="TFX.fr">1:0:19:2014:430:1:C00000:0:0:0:</channel>
 <channel id="TFX.fr">1:0:1:7:1:1:14A0000:0:0:0:</channel>
@@ -6894,9 +6932,13 @@
 <channel id="TGS.it">1:0:1:5E:A000:217C:EEEE0000:0:0:0:</channel>
 <channel id="Thats60s.uk">1:0:1:D7C3:840:2:11A0000:0:0:0:</channel>
 <channel id="Thats70s.uk">1:0:1:D7A1:840:2:11A0000:0:0:0:</channel>
+<channel id="Thats70s.uk">1:0:1:1:1000:44:CCCC0000:0:0:0:HTTP%3A//</channel>
 <channel id="Thats80s.uk">1:0:1:D7F0:840:2:11A0000:0:0:0:</channel>
+<channel id="Thats80s.uk">1:0:1:2:1000:44:CCCC0000:0:0:0:HTTP%3A//</channel>
 <channel id="Thats90s.uk">1:0:1:D7A7:840:2:11A0000:0:0:0:</channel>
+<channel id="Thats90s.uk">1:0:1:3:1000:44:CCCC0000:0:0:0:HTTP%3A//</channel>
 <channel id="ThatsChristmas.uk">1:0:1:D7CD:840:2:11A0000:0:0:0:</channel>
+<channel id="ThatsRock.uk">1:0:1:4:1000:44:CCCC0000:0:0:0:HTTP%3A//</channel>
 <channel id="ThatsTV.uk">1:0:1:CBAB:831:2:11A0000:0:0:0:</channel>
 <channel id="ThatsTV.uk">1:0:1:D7BE:840:2:11A0000:0:0:0:</channel>
 <channel id="TheBox.uk">1:0:1:1C28:83B:2:11A0000:0:0:0:</channel>
@@ -6926,6 +6968,7 @@
 <channel id="TLC.bg">1:0:1:13A:3:1:1860000:0:0:0:</channel>
 <channel id="TLC.bg">1:0:1F:EA:B2:39E:1860000:0:0:0:</channel>
 <channel id="TLC.bg">1:0:19:7B:2:D5:1C20000:0:0:0:</channel>
+<channel id="TLC.cz">1:0:1F:4C3:76C1:16E:A00000:0:0:0:</channel>
 <channel id="TLC.cz">1:0:16:48F:76C0:16E:A00000:0:0:0:</channel>
 <channel id="TLC.cz">1:0:16:74:9F60:16E:A00000:0:0:0:</channel>
 <channel id="TLC.de">1:0:1:47:7:85:C00000:0:0:0:</channel>
@@ -6953,6 +6996,9 @@
 <channel id="TLC.svn">1:0:1:13A:3:1:1860000:0:0:0:</channel>
 <channel id="TLC.svn">1:0:1:320:1:5E:300000:0:0:0:</channel>
 <channel id="TLC.svn">1:0:1:5788:E0:1F5:FFFF0000:0:0:0:</channel>
+<channel id="TLC.uk">1:0:1:1859:7F3:0:11A305E:0:0:0:</channel>
+<channel id="TLC.uk">1:0:1:B77:7F3:0:11A305E:0:0:0:</channel>
+<channel id="TLC.uk">1:0:1:B81:7F3:0:11A305E:0:0:0:</channel>
 <channel id="TLC.uk">1:0:19:B77:7F3:2:11A0000:0:0:0:</channel>
 <channel id="TLC.uk">1:0:1:B81:7F3:2:11A0000:0:0:0:</channel>
 <channel id="TLC.uk">1:0:1:1859:7F3:2:11A0000:0:0:0:</channel>
@@ -6963,10 +7009,12 @@
 <channel id="TLCNorge.no">1:0:19:1C3F:21:46:E080000:0:0:0:</channel>
 <channel id="TLCNorge.no">1:0:16:199:8C:2242:EEEE0000:0:0:0:</channel>
 <channel id="TLCNorge.no">1:0:16:199:F0:2242:EEEE0000:0:0:0:</channel>
+<channel id="TLCplus1.uk">1:0:1:B7C:7F3:0:11A305E:0:0:0:</channel>
 <channel id="TLCplus1.uk">1:0:1:B7C:7F3:2:11A0000:0:0:0:</channel>
 <channel id="TLCplus1.uk">1:0:1:CCDE:80E:2:11A0000:0:0:0:</channel>
 <channel id="TLCsverige.se">1:0:19:1C3E:21:46:E080000:0:0:0:</channel>
 <channel id="TLCsverige.se">1:0:1:1E5A:3:22F1:EEEE0000:0:0:0:</channel>
+<channel id="TMC.fr">1:0:1:51E:2E7C:13F:820000:0:0:0:</channel>
 <channel id="TMC.fr">1:0:1:136:3E1C:13F:820000:0:0:0:</channel>
 <channel id="TMC.fr">1:0:19:2015:430:1:C00000:0:0:0:</channel>
 <channel id="TMC.fr">1:0:1:6:1:1:14A0000:0:0:0:</channel>
@@ -7060,7 +7108,8 @@
 <channel id="TopCrime.it">1:0:1:866:389:110:EEEE0000:0:0:0:</channel>
 <channel id="TopCrime.it">1:0:19:849:389:110:EEEE0000:0:0:0:</channel>
 <channel id="TopCrime.it">1:0:19:869:389:110:EEEE0000:0:0:0:</channel>
-<channel id="TouteHistoire.fr">1:0:1:1CB:26AC:13F:820000:0:0:0:</channel>
+<channel id="TopFilmsRakutenTV.nl">1:0:1:C:1000:31:cccc0000:0:0:0:HTTP%3A//</channel>
+<channel id="TouteHistoire.fr">1:0:1:5B3:170C:13F:820000:0:0:0:</channel>
 <channel id="TouteHistoire.fr">1:0:19:4282:446:1:C00000:0:0:0:</channel>
 <channel id="TouteHistoire.fr">1:0:16:D2:4EE8:55F:DDE0000:0:0:0:</channel>
 <channel id="ToxicFolk.rs">1:0:1:77:9F60:16E:A00000:0:0:0:</channel>
@@ -7109,7 +7158,7 @@
 <channel id="TravelXP4K.eu">1:0:1F:11FB:2B5C:13E:820000:0:0:0:</channel>
 <channel id="TRCModena.it">1:0:1:26A:4859:217C:EEEE0000:0:0:0:</channel>
 <channel id="TRCModena.it">1:0:1:3F3:4C2D:217C:EEEE0000:0:0:0:</channel>
-<channel id="Trek.fr">1:0:1:1CA:26AC:13F:820000:0:0:0:</channel>
+<channel id="Trek.fr">1:0:1:5B2:170C:13F:820000:0:0:0:</channel>
 <channel id="Trek.fr">1:0:19:260:1A:800:1040000:0:0:0:</channel>
 <channel id="Trek.fr">1:0:19:CF:4EE8:55F:DDE0000:0:0:0:</channel>
 <channel id="TrinitasTV.ro">1:0:1:D8E:C:1:E080000:0:0:0:</channel>
@@ -7362,12 +7411,13 @@
 <channel id="Tv8.it">1:0:19:47:200:1D:EEEE0000:0:0:0:</channel>
 <channel id="TV8.se">1:0:16:BBA:84:2242:EEEE0000:0:0:0:</channel>
 <channel id="TV8.se">1:0:16:BBA:E7:2242:EEEE0000:0:0:0:</channel>
-<channel id="TV8.se">1:0:16:7A46:2CB:600:E080000:0:0:0:</channel>
 <channel id="TV8.se">1:0:19:1B75:45:46:E080000:0:0:0:</channel>
 <channel id="TV8.se">1:0:19:1EF9:4F:46:E080000:0:0:0:</channel>
 <channel id="TV8.se">1:0:19:4285:45:46:E080000:0:0:0:</channel>
 <channel id="TV8.se">1:0:19:1145:18:56:300000:0:0:0:</channel>
 <channel id="TV8.se">1:0:1:442:3:22F1:EEEE0000:0:0:0:</channel>
+<channel id="TV8.sk">1:0:16:7A46:2CB:600:E080000:0:0:0:</channel>
+<channel id="TV8.sk">1:0:16:3CFD:C95:3:EB0000:0:0:0:</channel>
 <channel id="TV8.svn">1:0:16:1E:6:22C1:EEEE0000:0:0:0:</channel>
 <channel id="TV8int.tr">1:0:1:10C:2580:13E:820000:0:0:0:</channel>
 <channel id="TV8int.tr">1:0:1F:47E:B11:39E:1860000:0:0:0:</channel>
@@ -7379,6 +7429,7 @@
 <channel id="TVBarrandov.cz">1:0:19:480:76C0:16E:A00000:0:0:0:</channel>
 <channel id="TVBarrandov.cz">1:0:19:31C:C94:3:EB0000:0:0:0:</channel>
 <channel id="TVBerlin.de">1:0:16:1344:3EF:1:C00000:0:0:0:</channel>
+<channel id="TVBreizh.fr">1:0:1:5B0:170C:13F:820000:0:0:0:</channel>
 <channel id="TVBreizh.fr">1:0:1:1C8:26AC:13F:820000:0:0:0:</channel>
 <channel id="TVBreizh.fr">1:0:19:24D4:43C:1:C00000:0:0:0:</channel>
 <channel id="TVBreizh.fr">1:0:1:385:5208:55E:DDE0000:0:0:0:</channel>
@@ -7549,6 +7600,7 @@
 <channel id="Universal.de">1:0:19:65:10:85:C00000:0:0:0:</channel>
 <channel id="Universal.de">1:0:19:65:8:85:C00000:0:0:0:</channel>
 <channel id="USANetwork(East).us">4097:0:1:48:1:1:0:0:0:0:HTTP%3A//</channel>
+<channel id="UshuaiaTV.fr">1:0:1:58C:170C:13F:820000:0:0:0:</channel>
 <channel id="UshuaiaTV.fr">1:0:1:1A4:26AC:13F:820000:0:0:0:</channel>
 <channel id="UshuaiaTV.fr">1:0:19:2459:440:1:C00000:0:0:0:</channel>
 <channel id="UshuaiaTV.fr">1:0:1:387:5208:55E:DDE0000:0:0:0:</channel>
@@ -7564,10 +7616,17 @@
 <channel id="UTV.uk">1:0:19:4E80:1000:1:D7A0000:0:0:0:</channel>
 <channel id="UTV.uk">1:0:1:2794:805:2:11A0000:0:0:0:</channel>
 <channel id="UTV.uk">1:0:19:514A:842:2:11A0000:0:0:0:</channel>
+<channel id="V-Classics.no">1:0:19:1167:2B:46:E080000:0:0:0:</channel>
+<channel id="V-Crime.no">1:0:19:1168:2B:46:E080000:0:0:0:</channel>
+<channel id="V-Crime.se">1:0:19:1168:2B:46:E080000:0:0:0:</channel>
 <channel id="V+TVI.pt">1:0:1:68:6:6:CE40000:0:0:0:</channel>
 <channel id="V+TVI.pt">1:0:1:177F:26:36:CE40000:0:0:0:</channel>
 <channel id="V+TVI.pt">1:0:1:37B:26:36:CE40000:0:0:0:</channel>
 <channel id="VALUE24.it">1:0:19:59A:19C8:FBFF:820000:0:0:0:</channel>
+<channel id="VantageClassic.eu">1:0:1:8E:1644:13E:DDDD0000:0:0:0:HTTP%3A//</channel>
+<channel id="VantageDance.eu">1:0:1:8C:1644:13E:DDDD0000:0:0:0:HTTP%3A//</channel>
+<channel id="VantageMusic.eu">1:0:1:8B:1644:13E:820000:0:0:0:</channel>
+<channel id="VantageRock.eu">1:0:1:8D:1644:13E:DDDD0000:0:0:0:HTTP%3A//</channel>
 <channel id="VASKanal.svn">1:0:16:A:1:22C1:EEEE0000:0:0:0:</channel>
 <channel id="Vavoom.hr">1:0:1:30A:9D08:16E:A00000:0:0:0:</channel>
 <channel id="Vedia.be">4097:0:1:5:1:32:0:0:0:0:HTTP%3A//</channel>
@@ -7937,6 +7996,7 @@
 <channel id="W.uk">1:0:1:1978:7E6:2:11A0000:0:0:0:</channel>
 <channel id="W.uk">1:0:1:6222:7E6:2:11A0000:0:0:0:</channel>
 <channel id="W.uk">1:0:19:16B2:7E5:2:11A0000:0:0:0:</channel>
+<channel id="W9.fr">1:0:1:51D:2E7C:13F:820000:0:0:0:</channel>
 <channel id="W9.fr">1:0:1:135:3E1C:13F:820000:0:0:0:</channel>
 <channel id="W9.fr">1:0:19:2458:440:1:C00000:0:0:0:</channel>
 <channel id="W9.fr">1:0:1:396:4E84:55E:DDE0000:0:0:0:</channel>
@@ -8012,7 +8072,7 @@
 <channel id="XXL.ero">1:0:1:4280:446:1:C00000:0:0:0:</channel>
 <channel id="XXL.ero">1:0:1:429E:446:1:C00000:0:0:0:</channel>
 <channel id="XXL.ero">1:0:16:D8:4EE8:55F:DDE0000:0:0:0:</channel>
-<channel id="XXLfull.ero">1:0:1:1D4:26AC:13F:820000:0:0:0:</channel>
+<channel id="XXLfull.ero">1:0:1:5BC:170C:13F:820000:0:0:0:</channel>
 <channel id="Yesterday.uk">1:0:1:1969:7E6:2:11A0000:0:0:0:</channel>
 <channel id="Yesterday.uk">1:0:19:1964:7EB:2:11A0000:0:0:0:</channel>
 <channel id="YesterdayPlus1.uk">1:0:1:621C:7E6:2:11A0000:0:0:0:</channel>
@@ -8029,15 +8089,13 @@
 <channel id="Z1.svn">1:0:16:78A:C6D4:16E:A00000:0:0:0:</channel>
 <channel id="ZAPViva.pt">1:0:1:12F3:30:36:CE40000:0:0:0:</channel>
 <channel id="ZDF.de">1:0:19:85:3264:13E:820000:0:0:0:</channel>
-<channel id="ZDF.de">1:0:1:6D66:437:1:C00000:0:0:0:</channel>
 <channel id="ZDF.de">1:0:19:2B66:3F3:1:C00000:0:0:0:</channel>
 <channel id="ZDF.de">1:0:1:202:202:2114:EEEE0000:0:0:0:</channel>
 <channel id="ZDF.svn">1:0:19:2B66:3F3:1:C00000:0:0:0:</channel>
 <channel id="ZDF.svn">1:0:19:2FA9:7D2:2028:EEEE0000:0:0:0:</channel>
-<channel id="ZDFinfo.de">1:0:1:6D6B:437:1:C00000:0:0:0:</channel>
 <channel id="ZDFinfo.de">1:0:19:2BA2:3F2:1:C00000:0:0:0:</channel>
 <channel id="ZDFinfo.de">1:0:1:204:202:2114:EEEE0000:0:0:0:</channel>
-<channel id="ZDFneo.de">1:0:1:6D6E:437:1:C00000:0:0:0:</channel>
+
 <channel id="ZDFneo.de">1:0:19:2B7A:3F3:1:C00000:0:0:0:</channel>
 <channel id="ZDFneoNight.de">1:0:1:205:202:2114:EEEE0000:0:0:0:</channel>
 <channel id="ZeeCinema.uk">1:0:1:2980:0:1:5A0000:0:0:0:</channel>
@@ -8071,5 +8129,9 @@
 <channel id="ΙΟΝΙΑΝ.gr">4097:0:1:16:0:0:357:0:0:0:HTTP%3A//</channel>
 <channel id="ΚreteTV.gr">1:0:1:3FD:1:AA:5A0000:0:0:0:</channel>
 <channel id="БНТ.bg">1:0:1:25B:1A:3:130000:0:0:0:</channel>
+<channel id="">1:0:1:6D66:437:1:C00000:0:0:0:</channel>
+<channel id="">1:0:1:5BE:170C:13F:820000:0:0:0:</channel>
 <channel id="">1:0:16:70:22:46:E080000:0:0:0:</channel>
+<channel id="Europe2PopTV.fr">1:0:19:271E:44C:1:C00000:0:0:0:</channel>
+<channel id="DFB.TV.de">1:0:19:30D8:413:1:C00000:0:0:0:</channel>
 </channels>
